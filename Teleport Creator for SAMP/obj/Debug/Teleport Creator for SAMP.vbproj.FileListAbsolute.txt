@@ -1,0 +1,10 @@
+I:\All\VB\Teleport Creator for SAMP\Teleport Creator for SAMP\bin\Debug\Teleport Creator for SAMP.exe
+I:\All\VB\Teleport Creator for SAMP\Teleport Creator for SAMP\bin\Debug\Teleport Creator for SAMP.pdb
+I:\All\VB\Teleport Creator for SAMP\Teleport Creator for SAMP\bin\Debug\Teleport Creator for SAMP.xml
+I:\All\VB\Teleport Creator for SAMP\Teleport Creator for SAMP\obj\Debug\ResolveAssemblyReference.cache
+I:\All\VB\Teleport Creator for SAMP\Teleport Creator for SAMP\obj\Debug\Teleport_Creator.Form1.resources
+I:\All\VB\Teleport Creator for SAMP\Teleport Creator for SAMP\obj\Debug\Teleport_Creator.Resources.resources
+I:\All\VB\Teleport Creator for SAMP\Teleport Creator for SAMP\obj\Debug\Teleport Creator for SAMP.vbproj.GenerateResource.Cache
+I:\All\VB\Teleport Creator for SAMP\Teleport Creator for SAMP\obj\Debug\Teleport Creator for SAMP.exe
+I:\All\VB\Teleport Creator for SAMP\Teleport Creator for SAMP\obj\Debug\Teleport Creator for SAMP.xml
+I:\All\VB\Teleport Creator for SAMP\Teleport Creator for SAMP\obj\Debug\Teleport Creator for SAMP.pdb
